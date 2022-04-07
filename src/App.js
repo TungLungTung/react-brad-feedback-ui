@@ -2,11 +2,11 @@
 import {
   BrowserRouter as Router,
   Route,
-  Routes,
-  NavLink
+  Routes
+  // NavLink
 } from 'react-router-dom';
 
-import Card from './components/shared/Card';
+// import Card from './components/shared/Card';
 import Header from './components/Header';
 import FeedbackList from './components/FeedbackList';
 import FeedbackStats from './components/FeedbackStats';
