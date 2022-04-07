@@ -118,6 +118,12 @@ input:focus {
   outline: none;
 }
 
+/* Just using for testing NavLink inside ReactRouterDom */
+.active {
+  background: #000;
+  color: red;
+}
+
 .feedback-stats {
   color: #fff;
   display: flex;
